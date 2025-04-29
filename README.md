@@ -2,7 +2,7 @@
 
 **`Technology Lover (Developer/Data science/Machine Learning)`**
 
-<p>Hi!, I'm HEANG Denis a full-stack developer with a focus on data science and machine learning. Passionate about building end-to-end applications and turning data into actionable insights, I’m always learning and experimenting with new technologies. Excited to grow in the tech world and make a meaningful impact.</p>
+<p>Hi!, I'm HEANG Denis a developer with a focus on data science and machine learning. Passionate about building end-to-end applications and turning data into actionable insights, I’m always learning and experimenting with new technologies. Excited to grow in the tech world and make a meaningful impact.</p>
 ---
 
 ### 🧰 Languages and Tools
