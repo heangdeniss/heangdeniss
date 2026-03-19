@@ -1,4 +1,4 @@
-# 🏄‍♂️ deniss
+# ⚡ HEANG Denis
 
 **`Technology Lover (Developer/Data science/Machine Learning)`**
 
