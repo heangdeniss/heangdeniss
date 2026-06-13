@@ -1,6 +1,6 @@
 # ⚡ HEANG Denis
 
-**`(Data science/Machine Learning/ LLM/ Data Analyst)`**
+**`(Data science/AI Engineering/Machine Learning/ LLM/ Data Analyst)`**
 
 <p>Hi!, I'm HEANG Denis a developer with a focus on data science and machine learning. Passionate about building end-to-end applications and turning data into actionable insights, I’m always learning and experimenting with new technologies. Excited to grow in the tech world and make a meaningful impact.</p>
 
@@ -38,11 +38,9 @@
 
 ## Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
+| Project | Description |
+|---|---|
 | **[Credit Risk Analysis, Prediction & RAG Assistant](https://github.com/heangdeniss/creditAnalysisAsistantChatbot)** | This project is a full-stack credit-risk assistant: a FastAPI backend combines RAG chat over Chroma/vector documents, Llama 3.2 inference, tabular ML credit scoring, scenario simulation, SHAP-style explanations, speech-to-text, ingestion, jobs, and observability, while a React/Vite frontend provides the chat, prediction, and risk dashboard UI. |
 | **[Lending Loan Club Data Analysis](https://github.com/heangdeniss/LendingLoanClubDataAnalysis.git)** | A data analytics and credit-risk modeling project that ingests and consolidates LendingClub loan data, performs exploratory analysis, cleaning, feature engineering, and visualization, then builds and evaluates predictive models to identify loan default risk and support data-driven lending decisions |
 | **[House Price Prediction](https://github.com/heangdeniss/housePridePredFloridaIn2025.git)** | A Florida house price prediction project that scrapes Redfin listing data, cleans and analyzes housing features like price, beds, baths, and square footage, then uses a neural network model in a Streamlit app to estimate house prices. |
 | **[AI Educational Chatbot](https://github.com/heangdeniss/AiEducationChatbot)** | This project is a teaching-agent chatbot web app with an Express/EJS frontend, PostgreSQL user/chat management, and a Flask RAG backend using Chroma/text documents to answer educational questions, with support for authentication, chat history, uploads, PDFs, images, and speech-to-text |
-
----
